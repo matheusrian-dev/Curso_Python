@@ -7,7 +7,9 @@ nome = 'Thainá'
 idade = 17
 maior_de_idade = idade >= 18
 pet_favorito = "Coelho"
+altura = 1.60
 print('Nome:', nome)
 print('Idade:', idade)
 print('É maior de idade?', maior_de_idade)
 print('Pet Favorito:', pet_favorito)
+print('Altura:', altura)
